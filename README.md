@@ -1,1 +1,1 @@
-# python-google-maps-data-extractor
+# google-maps-data-extractor
